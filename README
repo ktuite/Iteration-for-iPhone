@@ -1,0 +1,13 @@
+Iteration source code:
+By Kathleen Tuite
+
+This is a pretty simple iphone application. It draws pictures by plotting thousands of little points and then has the ability to save these pictures. There are also adjustable settings in a different 'view'. 
+
+I have no idea how to get this code to compile on my computer anymore. Maybe I never downloaded the iPhone SDK on my newish computer? There are some Frameworks that were being used in a previous version but are now red and angry, and I'll list those just in case:
+
+CoreGraphics
+QuartzCore
+OpenGLES
+UIKit
+Foundation
+CoreGraphics
